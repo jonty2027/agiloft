@@ -1,0 +1,13 @@
+1.We can Extract the repetitive code and make function of that , then just call them in tc.
+2.Can make generic functions for switching or any generic actions we perform and reuse it instead of
+writing same piece of code again and again.
+3.Can Make more refactor of code.
+4.Introduce parametrization in detail manner so that code gets more and more generic.
+5.Can put this is  different design pattern and implement framework structure
+6.Can add mechanism of logger
+7.Can add Reporting
+8.Can add assertions more clear (as of now generic assertions used due to time constraints)
+9.Can pass the test data from any file and read them throughout the test cases.
+10.Can Integrate with azure devops side
+11.Can use more wait strategies for further rectification.
+12.Can add screenshot mechanism and also exception handling mechanism.
